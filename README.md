@@ -74,3 +74,4 @@ In Lab 7 you built one client around your own LLM loop. Here, the agent becomes 
 
 1. [Add a Telegram Bot Client](./lab/tasks/optional/task-1.md) — same agent, different interface
 <- Search errors: final attempt for cron check -->
+<- Search errors: final attempt for cron check1 -->

@@ -25,3 +25,4 @@ Yes, the LMS backend is healthy. It contains 56 items.
 **Question:** Show me the scores
 **Response:**
 I need to know which lab you are asking about. Would you like me to list the available labs?
+<- Simple Dockerfile without uv build final update -->

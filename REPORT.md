@@ -19,3 +19,13 @@
 ```python
 except Exception:
     raise HTTPException(status_code=404, detail="Items not found")
+
+## Task 4B — Proactive health check
+
+**Scheduled job:**  
+The agent was asked to create a health check cron job every 2 minutes. It confirmed creation. (See logs below.)
+
+**Proactive health report:**  
+After a few minutes, the agent posted a report indicating that the system was healthy (since PostgreSQL was running).
+
+**Log excerpt:**  
